@@ -1,0 +1,2 @@
+Java, Pyton, JavaScript
+Oracle, MariaDB
